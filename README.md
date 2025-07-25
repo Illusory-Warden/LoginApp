@@ -32,7 +32,7 @@ Never commit real user credentials or personal data to a public repository.
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: php (Login Logic)
-- Database: SQLite
+- Database: MySQL
 - Password Hashing: SHA256
 
 ---
