@@ -47,7 +47,7 @@ LoginApp/
 ├── styles.css
 ├── app.py
 ├── database/
-│   └── users.db  ← ⚠️ REMOVE or REPLACE with demo data
+│   └── CSBS_DATA.sql  ← ⚠️ REMOVE or REPLACE with demo data
 ├── README.md
 ```
 
